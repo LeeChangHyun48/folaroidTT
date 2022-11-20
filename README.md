@@ -1,5 +1,7 @@
 # TT - For TRPG with Online!
 
+![KakaoTalk](README.assets/KakaoTalk_20220815_182135615.png)
+
 ![185549536-c7840946-7b3b-4174-bf82-a2d307e4a308](https://user-images.githubusercontent.com/116571873/198022314-607437c8-5da0-4de8-9f96-47beaaa16b06.png)
 
 ## TT 소개
